@@ -19,6 +19,11 @@ CREATE TABLE `files` (
 İlgili Veritabanına ait tabloyu oluşturduktan sonra Repo üzerindeki dosyalardan kendi DB bilgilerinizle değiştirmeniz gerekecektir.
 
 
+## Güvenlik
+
+İlgili sayfaya erişimi engellemek adına kullanıcı girişi kısmı tasarlanmıştır. Veritabanından gerekli kullanıcıyı oluşturup işlemleri sağlayabilirsiniz.
+
+
 ## Özellikler
 1- 10GB boyutuna kadar istediğiniz dosyayı yükleyebilirsiniz. isterseniz upload.php dosyasından bunun sınırını belirleyebilirsiniz.
 2- Yüklemiş olduğunuz dosyaları indirebilir veya silebilirsiniz.
