@@ -25,9 +25,23 @@ CREATE TABLE `files` (
 
 
 ## Özellikler
-1- 10GB boyutuna kadar istediğiniz dosyayı yükleyebilirsiniz. isterseniz upload.php dosyasından bunun sınırını belirleyebilirsiniz.
-2- Yüklemiş olduğunuz dosyaları indirebilir veya silebilirsiniz.
-3- Dark mode seçeneği
-4- Yüklenen dosyaların toplam boyutunu ister MB ve GB cinsinden görüntüleyebilme
+-
+- 10GB boyutuna kadar istediğiniz dosyayı yükleyebilirsiniz. isterseniz upload.php dosyasından bunun sınırını belirleyebilirsiniz.
+- Yüklemiş olduğunuz dosyaları indirebilir veya silebilirsiniz.
+- Dark mode seçeneği
+- Yüklenen dosyaların toplam boyutunu ister MB ve GB cinsinden görüntüleyebilme
 
 ![image](https://github.com/user-attachments/assets/1dac720e-d816-4d30-992b-7d9d4382bd6e)
+
+
+## Katkı
+
+Katkılarınızı bekliyoruz! Herhangi bir iyileştirme veya öneri için lütfen bir sorun açın veya bir çekme isteği gönderin.
+
+
+
+## Lisans
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Bu projeyi [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisansladık. Lisansın tam açıklamasını burada bulabilirsiniz.
