@@ -25,7 +25,6 @@ CREATE TABLE `files` (
 
 
 ## Özellikler
--
 - 10GB boyutuna kadar istediğiniz dosyayı yükleyebilirsiniz. isterseniz upload.php dosyasından bunun sınırını belirleyebilirsiniz.
 - Yüklemiş olduğunuz dosyaları indirebilir veya silebilirsiniz.
 - Dark mode seçeneği
