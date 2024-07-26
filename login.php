@@ -3,7 +3,7 @@ session_start();
 
 $servername = "";
 $username = "";  // Yeni kullanıcı adı
-$password = "??"; // Yeni şifre
+$password = ""; // Yeni şifre
 $dbname = "";  // Veritabanı adı
 
 $conn = new mysqli($servername, $username, $password, $dbname);
